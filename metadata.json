@@ -1,0 +1,7 @@
+{
+  "name": "Oneiric - Dream Journal",
+  "description": "A multi-modal dream journal that transcribes, visualizes, and interprets your dreams using advanced Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
